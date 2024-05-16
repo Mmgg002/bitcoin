@@ -1,0 +1,22 @@
+diff --git a/.vscode/launch.json b/.vscode/launch.json
+new file mode 100644
+--- /dev/null
++++ b/.vscode/launch.json
+@@ -0,0 +1,16 @@
++{
++    // Use IntelliSense to learn about possible attributes.
++    // Hover to view descriptions of existing attributes.
++    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
++    "version": "0.2.0",
++    "configurations": []
++}Error Code: 53003
++Request Id: 75dc5180-c7c8-48b6-ad87-26891e4b2100
++Correlation Id: efd38535-ef8d-4684-b27f-16d3d17b2a84
++Timestamp: 2024-05-15T17:43:55.164Z
++應用程式名稱: Docs Rendering Public
++應用程式識別碼: 94627ff6-8578-400b-bb6d-ae5b3352cf75
++IP 位址: 2001:569:7569:6b00:6198:dc26:20ee:cac0
++裝置識別碼: 無法使用
++裝置平台: Windows 10
++裝置狀態: Unregistered
+\ No newline at end of file
