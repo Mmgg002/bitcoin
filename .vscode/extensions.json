@@ -1,5 +1,5 @@
 
-    "recommendations": [
+    master: [
         "ms-vscode.js-debug-nightly"
     ]
 }
