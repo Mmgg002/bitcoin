@@ -3,7 +3,14 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "name": "Debug",
+            "type": "powercpp",
+            "request": "launch"
+        }
+
+    ]
 }Error Code: 53003
 Request Id: 75dc5180-c7c8-48b6-ad87-26891e4b2100
 Correlation Id: efd38535-ef8d-4684-b27f-16d3d17b2a84
